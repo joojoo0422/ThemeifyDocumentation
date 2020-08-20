@@ -1,3 +1,17 @@
+# **Themeify** JS Library
+
+**Themify** is a JS Library providing various themed elements to users so they can create well-designed web
+applications with less work. The app generates custom elements such as text styles (font and colour), title
+elements, menu bars, buttons, and text/image boxes. By using the Themeify Library, users do not have to
+worry about coming up with new styles and decorate the elements themselves as the elements are already customized to fit the theme.
+
+There are two different themes provided for the Themeify Library:
+- <span style='color:#F2B134;'>Retro Theme</span> Library
+- <span style='color:#72F2E5;'>Neon Theme</span> Library
+
+The demo webiste showing the elements and functionalities of **Themeify** Library can be found here:
+[https://themeify.herokuapp.com/](https://themeify.herokuapp.com/ ':ignore')
+
 # Getting Started
 
 In order for users to use Themeify Library, there are some set up users need to do.
