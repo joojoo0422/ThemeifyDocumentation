@@ -3,7 +3,7 @@
 In order for users to use Themeify Library, there are some set up users need to do.
 
 First, users need to create an `HTML` file.
-In the header of the `HTML` file, users need to include the JQuery Script tag.
+In the header of the `HTML` file, users need to include the JQuery Script tag. 
 
 ``` HTML
 <head>
