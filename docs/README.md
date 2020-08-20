@@ -68,7 +68,7 @@ In the header of user's `HTML` file, add the following script/link tags:
 ```
 Once these script tags are in place, it's done! Users can now use the Themeify Retro Theme elements from the `example.js` file.
 
-More description on how to create elements can be found [API](/#/?id=api ':ignore :target=_self') below.
+More description on how to create elements can be found in [API](/#/?id=api ':ignore :target=_self') below.
 
 ## To use Themify Library: <span style='color:#72F2E5;'>Neon Theme</span>
 
@@ -113,7 +113,7 @@ In the header of user's `HTML` file, add the following script/link tags:
 ```
 Once these script tags are in place, it's done! Users can now use the Themeify Neon Theme elements from the `example.js` file.
 
-More description on how to create elements can be found [API](/#/?id=api ':ignore :target=_self') below.
+More description on how to create elements can be found in [API](/#/?id=api ':ignore :target=_self') below.
 
 
 
