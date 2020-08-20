@@ -1,4 +1,4 @@
-# **Themeify** JS Library
+# **Themeify**✨ JS Library
 
 **Themify** is a JS Library providing various themed elements to users so they can create well-designed web
 applications with less work. The app generates custom elements such as text styles (font and colour), title
